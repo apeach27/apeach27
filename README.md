@@ -2,12 +2,6 @@
 
 👋 Hi, I’m Dohyeon
 
-<h3 align="center">💡 My Git Stats 💡</h3>
-  
-  ![apeach27's GitHub stats](https://github-readme-stats.vercel.app/api?username=apeach27&show_icons=true&theme=vue)
-  
-<hr>
-
 <h4 align="center">🧮 Back Tech Stack 🎨</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
